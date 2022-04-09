@@ -1,0 +1,40 @@
+h2 {
+    color: blue;
+}
+
+.bold
+{
+    font-weight: bold;
+    font-size: 30 px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Etymology
+{
+    text-decoration: underline;
+}
+
+#Description
+{
+    text-decoration: underline;
+}
+
+#History
+{
+    text-decoration: underline;
+}
+
+img
+{
+  width: 350px;
+  height: 180px;
+}
+
+nav {
+    margin: 20px 4px;
+    padding-top: 0;
+    padding-right: 2px;
+    padding-bottom: 5px;
+    padding-left: 22px;
+    border: 2px solid black;
+  }
